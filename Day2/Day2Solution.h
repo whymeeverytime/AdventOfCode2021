@@ -3,5 +3,7 @@
 
 int day2Part1();
 
+int day2Part2();
+
 
 #endif //ADVENTOFCODE2021_DAY2SOLUTION_H

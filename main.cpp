@@ -24,6 +24,7 @@ int main() {
      */
 
 
-    printf("The solution for the 2nd day part 1 is: %d", day2Part1());
+    printf("The solution for the 2nd day part 1 is: %d \n", day2Part1());
+    printf("The solution for the 2nd day part 2 is: %d \n", day2Part2());
     return 0;
 }
