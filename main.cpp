@@ -1,8 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include "Day1\Day1.h"
-#include "Day2\Day2Solution.h"
+#include "Day1/Day1.h"
+#include "Day2/Day2Solution.h"
 using namespace std;
 
 int main() {
@@ -24,7 +24,9 @@ int main() {
      */
 
 
-    printf("The solution for the 2nd day part 1 is: %d \n", day2Part1());
-    printf("The solution for the 2nd day part 2 is: %d \n", day2Part2());
+    // printf("The solution for the 2nd day part 1 is: %d \n", day2Part1());
+    // printf("The solution for the 2nd day part 2 is: %d \n", day2Part2());
+
+
     return 0;
 }
